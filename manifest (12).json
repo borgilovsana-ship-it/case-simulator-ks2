@@ -1,0 +1,12 @@
+{
+  "background_color": "#111318",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Case KS2.",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Case Simulator KS2.",
+  "start_url": "/",
+  "theme_color": "#111318",
+  "description": "Открывай кейсы, собирай скины и играй!."
+}
