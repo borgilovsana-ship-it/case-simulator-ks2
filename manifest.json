@@ -1,26 +1,25 @@
 {
-  "background_color": "#111318",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Case KS2.",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Case Simulator KS2.",
-  "start_url": "/",
-  "theme_color": "#111318",
-  "description": "Открывай кейсы, собирай скины и играй!."
-}
+"name": "Case KS2",
+"short_name": "Case KS2",
+"description": "Открывай кейсы, собирай скины и играй!",
+"start_url": "/case-simulator-ks2/",
+"scope": "/case-simulator-ks2/",
+"display": "standalone",
+"orientation": "any",
+"background_color": "#111318",
+"theme_color": "#111318",
 "icons": [
-  {
-    "src": "/case-simulator-ks2/case-simulator-icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any"
-  },
-  {
-    "src": "/case-simulator-ks2/case-simulator-icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any"
-  }
+{
+"src": "/case-simulator-ks2/case-simulator-icon-192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "/case-simulator-ks2/case-simulator-icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+}
 ]
+}
